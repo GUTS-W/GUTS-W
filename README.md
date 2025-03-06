@@ -7,7 +7,7 @@
 </div>
 
 ---
-### Hello!  I am <b>Zirui Wang<a target="_blank" href="javascript:;"></a></b>
+### Hello!  I am Zirui Wang
 
 - 🌱 I’m currently studying computer science at Shandong University.
 - 🔭 I’m currently learning NLP.
