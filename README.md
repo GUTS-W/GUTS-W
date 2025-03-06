@@ -1,4 +1,13 @@
 ## Hi there 👋
+<div align="center">
+  <!-- dynamic typing effect 动态打字效果 -->
+  <div>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1250&width=520&lines=printf(%22Hello%2C%20World%21%22)%3B;Best%20wish%20for%20you%21&center=true&size=27" />
+  </div>
+</div>
+
+<!-- 贪吃蛇 -->
+![](https://raw.githubusercontent.com/GUTS-W/GUTS-W/refs/heads/output/github-contribution-grid-snake.svg)
 
 <!--
 **GUTS-W/GUTS-W** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
