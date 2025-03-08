@@ -19,8 +19,9 @@
 - :hearts: Passionate about open source software. 
 - :1st_place_medal: My projects are trusted by developers.
 - :sun_with_face: Highlights of my successful endeavors.
-You are my ![Visitor Count](https://profile-counter.glitch.me/GUTS-W/count.svg)th visitor
 -->
+You are my ![Visitor Count](https://profile-counter.glitch.me/GUTS-W/count.svg)th visitor
+
 
 ---
 
