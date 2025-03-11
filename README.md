@@ -1,4 +1,4 @@
-## Hi there 👋
+<!--## Hi there 👋-->
 <div align="center">
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
@@ -6,14 +6,13 @@
   </div>
 </div>
 
----
 
-## Hello!  I am Zirui Wang
+## Hello!👋  I am Zirui Wang
 
 - 🌱 I’m a junior majoring in Computer Science and Technology at Shandong University.
 - 🔭 I’m currently learning LLM.
 - 👯 Currently living in Qingdao, Shandong.
-- 😄 I love listening to music and coding(programming).
+- 😄 I love listening to music and coding (programming).
 
 <!--
 - :hearts: Passionate about open source software. 
