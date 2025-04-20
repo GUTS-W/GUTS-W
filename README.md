@@ -10,7 +10,9 @@
 ## Hello!👋  I am Zirui Wang
 
 - 🌱 I’m a junior majoring in Computer Science and Technology at Shandong University.
+<!--
 - 🔭 I’m currently learning LLM.
+-->
 - 👯 Currently living in Qingdao, Shandong.
 - 😄 I love listening to music and coding (programming).
 
