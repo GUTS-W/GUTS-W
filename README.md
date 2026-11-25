@@ -9,11 +9,13 @@
 
 ## Hello!👋  I am Zirui Wang
 
-- 🌱 I’m a junior majoring in Computer Science and Technology at Shandong University.
+- 🌱 I’m a graduate student at the College of Intelligent Robotics and Advanced Manufacturing (CIRAM) at Fudan University.
 <!--
 - 🔭 I’m currently learning LLM.
 -->
-- 👯 Currently living in Qingdao, Shandong.
+- ✨ I earned my bachelor’s degree from the School of Computer Science and Technology at Shandong University.
+- 🔭 My current research focuses on vision-language navigation (VLN) and vision-language-action models (VLAs).
+- 👯 Currently living in Shanghai.
 - 😄 I love listening to music and coding (programming).
 
 <!--
